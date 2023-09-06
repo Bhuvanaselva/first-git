@@ -1,2 +1,2 @@
 This is my first line of the document.
-Added second line.
+Added next line.
